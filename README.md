@@ -8,5 +8,5 @@
 
 ### Api 
   ```php
-    $this->getServer()->getPluginManager()->getPlugin("NichiWeatherTime)->getWeather();
+    $this->getServer()->getPluginManager()->getPlugin("NichiWeatherTime")->getWeather();
 ```
